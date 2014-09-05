@@ -11,3 +11,4 @@ The Midnight Pages demo is [here](http://mattgraham.github.com/Midnight)
 Theme by [Matt Graham](http://madebygraham.com), twitter [@michigangraham](http://twitter.com/#!/michigangraham)
 
 [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
+little revision
